@@ -1,0 +1,10 @@
+#apps{
+    background-color: lightpink;
+
+}
+.line{
+    height: 6px;
+    width: 70px ;
+    margin: 8px auto;
+    background-color:rgb(255, 0, 183) ;
+}
